@@ -11,3 +11,5 @@
 ! Number of entries: 1
 !
 ||admarkt.kleinanzeigen.de^
+||ship.io^
+||icas.io^
