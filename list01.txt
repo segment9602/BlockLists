@@ -8,10 +8,11 @@
 ! Last modified: 2025-02-05
 ! Version: 
 ! Syntax: AdBlock
-! Number of entries: 5
+! Number of entries: 6
 !
 ||admarkt.kleinanzeigen.de^
 ||gateway.kleinanzeigen.de^
+||googleadservices.com^
 ||ship.io^
 ||icas.io^
 ||backmarket.de^
