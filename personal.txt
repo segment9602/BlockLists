@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Title: segment9602 DNS Blocklist
+! Title: segment9602 personal DNS Blocklist
 ! Description: for testing only
 ! Homepage: https://github.com/segment9602/BlockLists
 ! License: 
@@ -8,7 +8,7 @@
 ! Last modified: 2025-02-05
 ! Version: 
 ! Syntax: AdBlock
-! Number of entries: 6
+! Number of entries: 5
 !
 ||admarkt.kleinanzeigen.de^
 ||googleadservices.com^
