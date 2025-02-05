@@ -1,2 +1,13 @@
-# segment9602 pi-hole BlockList 01
-admarkt.kleinanzeigen.de
+[Adblock Plus]
+! Title: segment9602 DNS Blocklist
+! Description: for testing only
+! Homepage: https://github.com/segment9602/BlockLists
+! License: 
+! Issues: https://github.com/segment9602/BlockLists/issues
+! Expires: 1 day
+! Last modified: 2025-02-05
+! Version: 
+! Syntax: AdBlock
+! Number of entries: 1
+!
+||admarkt.kleinanzeigen.de^
