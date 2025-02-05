@@ -8,7 +8,7 @@
 ! Last modified: 2025-02-05
 ! Version: 
 ! Syntax: AdBlock
-! Number of entries: 1
+! Number of entries: 4
 !
 ||admarkt.kleinanzeigen.de^
 ||ship.io^
