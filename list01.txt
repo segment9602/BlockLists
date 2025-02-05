@@ -1,2 +1,2 @@
 # segment9602 pi-hole BlockList 01
-||admarkt.kleinanzeigen.de
+admarkt.kleinanzeigen.de
