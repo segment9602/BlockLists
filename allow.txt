@@ -1,0 +1,14 @@
+[Adblock Plus]
+! Title: egment9602's personal DNS Blocklist
+! Description: This personal list unblocks domains.
+! Homepage: https://github.com/segment9602/BlockLists
+! License: 
+! Issues: https://github.com/segment9602/BlockLists/issues
+! Expires: Updated regularly
+! Syntax: AdBlock
+!
+@@||reddit.com^
+@@||redditstatic.com^
+@@||whatsapp.de^
+@@||whatsapp.com^
+@@||whatsapp.net^
