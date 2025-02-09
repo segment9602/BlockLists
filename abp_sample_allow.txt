@@ -5,6 +5,9 @@
 ! License: https://github.com/segment9602/BlockLists/blob/main/LICENSE
 ! Issues: https://github.com/segment9602/BlockLists/issues
 ! Expires: Updated regularly
+! Last modified: 2025-02-09
+! Version: 
+! Number of entries: 5
 ! Syntax: AdBlock
 !
 @@||reddit.com^
