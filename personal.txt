@@ -1,17 +1,25 @@
 [Adblock Plus]
-! Title: segment9602 personal DNS Blocklist
-! Description: for testing only
+! Title: segment9602's personal DNS Blocklist
+! Description: This personal list blocks domains.
 ! Homepage: https://github.com/segment9602/BlockLists
 ! License: 
 ! Issues: https://github.com/segment9602/BlockLists/issues
-! Expires: 1 day
-! Last modified: 2025-02-05
+! Expires: Updated regularly
+! Last modified: 2025-02-09
 ! Version: 
 ! Syntax: AdBlock
-! Number of entries: 5
+! Number of entries: 12
+! Syntax: AdBlock
 !
 ||admarkt.kleinanzeigen.de^
 ||googleadservices.com^
 ||ship.io^
 ||icas.io^
 ||backmarket.de^
+||app-measurement.com^
+||tvspielfilm.de^
+||lehrer-finden.de^
+||outbrain.com^
+||bfops.io^
+||bf-tools.net^
+||bf-ad.net^
