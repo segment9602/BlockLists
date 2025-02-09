@@ -1,1 +1,8 @@
 REAMDE comes here
+Pi-Hole decision tree:
+Exact Whitelist
+Regex Whitelist
+Exact Blacklist
+Blocklist domains (AKA gravity)
+Regex Blacklist
+dnsmasq configuration files (/etc/dnsmasq.d/)
