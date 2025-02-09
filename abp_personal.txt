@@ -7,7 +7,6 @@
 ! Expires: Updated regularly
 ! Last modified: 2025-02-09
 ! Version: 
-! Syntax: AdBlock
 ! Number of entries: 12
 ! Syntax: AdBlock
 !
