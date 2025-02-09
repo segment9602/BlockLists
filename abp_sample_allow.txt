@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: egment9602's personal DNS Whitelist
-! Description: This personal list unblocks domains.
+! Description: This personal list unblocks domains. (syntax sample)
 ! Homepage: https://github.com/segment9602/BlockLists
 ! License: 
 ! Issues: https://github.com/segment9602/BlockLists/issues
